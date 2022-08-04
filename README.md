@@ -1,3 +1,3 @@
 # Micro-Service
-##Synchronous
+## Synchronous
 Feign Client and Rest Template
